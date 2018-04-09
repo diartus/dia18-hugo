@@ -1,21 +1,15 @@
 +++
 date = "2016-11-05T21:05:33+05:30"
-title = "About me"
+title = "About"
 +++
 
-An sincerity so extremity he additions. Her yet **there truth merit**. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
+Diana Artus is a visual artist dealing with the perception of urban space and its imagery as well as with topics like narration, memory production, the ambiguous nature of desire, contemporary concepts of love and self-constitution. She is especially interested in the interdependency between city and mood and explores public representation and urban objects from an associative-metaphorical point of view. Photography provides the base of her creative process resulting in reinterpretations of urban phenomena and architectural bodies, often taking the form of sculptural image objects or images of images. In addition she also writes articles and essays to reflect on current conditions of work and creative production with a special focus on the sociology of art.
 
-Received overcame oh sensible so at an. Formed do change merely to county it. **Am separate contempt** domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too. Replied exposed savings he no viewing as up. Soon body add him hill. No father living really people estate if. Mistake do produce beloved demesne if am pursuit.
+![Diana Artus - portrait][2]Photo by [Katja Renner](https://studiorenner.com)
 
-![This is me][1]
+Artus’ art works evolve from all the material which comes across her way while strolling randomly through different cities: photographs she takes, found footage, visual/textual notes. She uses a small digital camera serving as seismographic device to record ‚psychogeographic shocks‘ – the accidential, the provisional, the fragile and the contradictory are especially attractive to the artist. After finding their way into her archive these photographs later initiate a process of analog transformation, consisting of repeated reproduction, distortions and interferences, error and interactions between ‚outer’ and ‚inner’ images. The limits of the photographic medium are constantly stretched and transcended, transforming digital photographs into unique originals characterized by an analog character and a haptic materiality.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 
-#### Education
+Besides Diana Artus also started to extensively work with old photo novel magazines found on South European flea markets, subjecting their imagery, characters and stories to an actualization and recontextualization with the aim to revisit and to reuse this genre and its narrative potential.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
-
-[1]: /img/about.jpg
+[2]: /img/about.jpg
